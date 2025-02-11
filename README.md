@@ -1,6 +1,6 @@
 <h1 align="center">Unit Testing Course with kotlin</h1>
 <h3 align="center">
-<a href="https://www.youtube.com/playlist?list=PLWNaqtzH6CWRUd0iIEJotRrpwtXXnFROE" target="_blank">Unit Testing Course with C# - ProgrAmada Mente channel</a>
+<a target="_blank">Unit Testing Course with kotlin - COTEMIG</a>
 </h3>
 
 
