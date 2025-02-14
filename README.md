@@ -24,8 +24,8 @@ Explore new testing tools.
 <h2 id=installation>:clipboard: Installation</h2>
 
 1. Clone the repo.
-2. Install dart 
-3. Install Visual Code.
+2. Install kotlin. 
+4. Install Visual Code.
 
 <h2 id=technology>:toolbox: Technology</h2>
 
